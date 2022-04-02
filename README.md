@@ -1,6 +1,6 @@
 ### Hola soy Benito 👋
 
-<img align="right" width="200" height="190" src="https://github.com/benito281/benito281/blob/master/logos/Foto.jpg">
+<img align="right" width="180" height="180" src="https://github.com/benito281/benito281/blob/master/logos/Foto.jpg">
 
 Soy estudiante de ingenieria en sistemas de información, tengo una especialización en desarrollo de software y en telecomunicaciones. Me gusta mucho aprender, programar y hacer deportes. Ademas soy una persona responsable, perseverante, adaptativa con buena predisposición.
 
