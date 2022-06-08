@@ -2,8 +2,6 @@
 
 Soy estudiante de ingenieria en sistemas de información, tengo una especialización en desarrollo de software y en telecomunicaciones. Me gusta mucho aprender y hacer deportes.
 
-&nbsp; &nbsp; *[Ver curriculum](https://drive.google.com/file/d/1e_zF97tcN6MPr0RnlzoZT3jCipEgV9LH/view?usp=sharing)*
-<br />
 
 ### Educación:
 
