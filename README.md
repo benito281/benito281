@@ -1,8 +1,6 @@
 ### Hola soy Benito 👋
 
-<img align="right" width="180" height="180" src="https://github.com/benito281/benito281/blob/master/logos/Foto.jpg">
-
-Soy estudiante de ingenieria en sistemas de información, tengo una especialización en desarrollo de software y en telecomunicaciones. Me gusta mucho aprender, programar y hacer deportes. Ademas soy una persona responsable, perseverante, adaptativa con buena predisposición.
+Soy estudiante de ingenieria en sistemas de información, tengo una especialización en desarrollo de software y en telecomunicaciones. Me gusta mucho aprender y hacer deportes.
 
 &nbsp; &nbsp; *[Ver curriculum](https://drive.google.com/file/d/1e_zF97tcN6MPr0RnlzoZT3jCipEgV9LH/view?usp=sharing)*
 <br />
@@ -32,3 +30,10 @@ Soy estudiante de ingenieria en sistemas de información, tengo una especializac
 <code><img height="75" src="https://github.com/benito281/benito281/blob/master/logos/postgresql.png"></code> &nbsp;&nbsp;
 </p>
 <br/>
+
+## Proyectos
+* [Carga de imagenes con multer](https://github.com/benito281/fileupload-multer-mongodb)
+* [Estado del clima segun la localidad](https://github.com/benito281/app-weather-localitie)
+* [Crud php y mysql](https://github.com/benito281/crud-php-mysql)
+* [Crud php, mysql y jquery](https://github.com/benito281/php-ajax-jquery)
+* [Crud nodeJs, mongodb](https://github.com/benito281/node-mongodb-crud)
