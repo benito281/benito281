@@ -8,7 +8,7 @@
 - I'm currently studying information systems engineering.
 - I really like programming and computer science.
 
-## 🎓 Educación:
+## 🎓 Education:
 
 - IT Technician | E.P.E.T. N° 7 'Vicente Arcadio Salemi' | 2012 - 2018
 - Technical specialization in networks and telecommunications | E.P.E.T. N° 1 | 2019
