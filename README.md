@@ -28,8 +28,8 @@
 
 ### My Projects ✨:
   
-<a href="https://github.com/benito281/fileupload-multer-mongodb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito281&repo=fileupload-multer-mongodb&theme=tokyonight" />
+<a href="https://github.com/benito281/picture-collection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito281&repo=picture-collection&theme=tokyonight" />
 </a>
 
 
