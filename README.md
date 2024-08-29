@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hola, soy Ortiz Benito</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Benito Ortiz</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![ProfileBanner](https://github.com/benito281/benito281/blob/master/logo/Banner.png)
 
