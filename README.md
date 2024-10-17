@@ -3,7 +3,7 @@
 
 ![ProfileBanner](https://github.com/benito281/benito281/blob/master/logo/Banner.png)
 
-## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)" width = 50px></picture> **Sobre mi**
+## <picture><img src = "[https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)" width = 50px></picture> **Sobre mi**
 - Soy desarrollador de web.
 - Actualmente estoy estudiando ingeniería en sistemas de información.
 - Me gusta mucho la programación y la informática.
