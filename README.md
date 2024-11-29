@@ -35,4 +35,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito281&repo=app-weather-localitie&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/benito281/carrito-de-compras-js">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito281&repo=carrito-de-compras-js&theme=tokyonight" />
+</a>
+
 
