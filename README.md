@@ -14,7 +14,7 @@
 - Especialización tecnológica en desarrollo de software | Instituto Politécnico Formosa | 2020
 - Ingeniería en sistemas de información | Universidad Tecnológica Nacional Facultad Regional de Resistencia | 2021 - Actualmente
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades: </b>
 <br>
 
 <p align="center">
@@ -23,7 +23,8 @@
   </a>
 </p>
 
-## 🚀 Mis Proyectos
+## 🚀 Mis Proyectos:
+
 
 <div align="center">
 
@@ -32,10 +33,12 @@
 | [Picture Collection](https://github.com/benito281/picture-collection) | Galería de imágenes interactiva | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![API](https://img.shields.io/badge/-API-00C7B7?style=flat-square&logo=api&logoColor=white) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](#) |
 | [App Weather Localitie](https://github.com/benito281/app-weather-localitie) | Aplicación de pronóstico del tiempo | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![API](https://img.shields.io/badge/-API-00C7B7?style=flat-square&logo=api&logoColor=white) |
 | [Carrito de Compras JS](https://github.com/benito281/carrito-de-compras-js) | Simulador de carrito de compras | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [App Task](https://github.com/benito281/django-taskApp-auth) | Aplicación de tareas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 </div>
 
-### Estadísticas de GitHub
+
+### Estadísticas de GitHub : 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benito281&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
