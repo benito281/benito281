@@ -2,7 +2,7 @@
 
 ![ProfileBanner](https://github.com/benito281/benito281/blob/master/logo/Banner.png)
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> **Sobre mi**
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> **Sobre mi:**
 - Soy desarrollador web especializado en Javascript y PHP.
 - Actualmente estoy estudiando ingeniería en sistemas de información.
 - Me gusta mucho la programación y la informática.
@@ -41,6 +41,5 @@
 ### Estadísticas de GitHub : 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benito281&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benito281&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
