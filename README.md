@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, soy Benito Ortiz</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![ProfileBanner](https://github.com/benito281/benito281/blob/master/logo/Banner.png)
+![ProfileBanner](https://github.com/benito281/benito281/blob/master/logo/Banner_3.png)
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> **Sobre mi:**
 - Soy desarrollador web especializado en Javascript y PHP.
