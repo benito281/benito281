@@ -3,7 +3,7 @@
 ![ProfileBanner](https://github.com/benito281/benito281/blob/master/logo/Banner_3.png)
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> **Sobre mi:**
-- Soy desarrollador web especializado en Javascript y PHP.
+- Soy desarrollador web especializado en Javascript con conocimientos en Python y PHP.
 - Actualmente estoy estudiando ingeniería en sistemas de información.
 - Me gusta mucho la programación y la informática.
 
